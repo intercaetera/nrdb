@@ -1,6 +1,6 @@
 {
   "name": "nrdb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "NPM module for querying the NetrunnerDB api.",
   "main": "./build/app.js",
   "repository": "http://github.com/mrhuds0n/nrdb",
