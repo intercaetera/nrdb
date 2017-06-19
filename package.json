@@ -1,0 +1,19 @@
+{
+  "name": "nrdb",
+  "version": "1.0.0",
+  "description": "NPM module for querying the NetrunnerDB api.",
+  "main": "./build/app.js",
+  "repository": "http://github.com/mrhuds0n/nrdb",
+  "author": "mrhudson <protegegod@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-esnext": "^1.1.3"
+  },
+  "scripts": {
+    "build": "babel src --presets babel-preset-esnext --out-dir build"
+  },
+  "dependencies": {
+    "node-fetch": "^1.7.1"
+  }
+}
