@@ -1,6 +1,8 @@
 # nrdb
 NPM module for asynchronously querying the public endpoints of the NetrunnerDB API.
 
+[![NPM](https://nodei.co/npm/nrdb.png)](https://npmjs.org/package/nrdb)
+
 ## Installation
 ```
 npm install --save nrdb
