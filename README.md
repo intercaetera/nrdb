@@ -10,7 +10,7 @@ yarn add nrdb
 
 ## Example usage
 
-```
+```javascript
 var nrdb = require('nrdb')
 
 // Print all cards on the latest MWL.
